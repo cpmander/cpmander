@@ -2,8 +2,10 @@
   <h1>Hi there 👋 I'm Chris</h1>
 
 </div>
-                     
-
+---
+<div id="contact" align="center">
+  <h2> Reach me at: </h2>  
+</div>
 
 
 <!--
