@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/christopher-mander/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com/users/chris#3327)">
+  <a href="https://discord.com/users/chris#3327">
     <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="mailto:cpmanderdev@gmail.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
