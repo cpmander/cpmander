@@ -1,5 +1,6 @@
 
 ### Hi there 👋 I'm Chris
+---
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/christopher-mander/">
