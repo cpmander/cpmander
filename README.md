@@ -1,6 +1,9 @@
-<div id="header" align="center">
-### Hi there 👋
+<div id="header" align="center>
+                        <h1>Hi there 👋 I'm Chris</h1>
+
 </div>
+                     
+
 
 
 <!--
