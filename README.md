@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/chris#3327">
-    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="mailto:cpmanderdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
