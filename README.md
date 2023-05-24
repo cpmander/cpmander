@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="mailto:cpmanderdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
