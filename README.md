@@ -47,11 +47,18 @@ Web developer located in Los Angeles ☀️
 </div>
 
   ---
+<div id="stats" align="left">
+
+  ### :fire: My Stats :
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpmander&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <div id="github-stats" align="center">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpmander&theme=dark&background=000000&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cpmander&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  
+  </div>
+</div>
   
   ---
 <div id="contact" align="left">
